@@ -1,4 +1,4 @@
-# Project: Image Classification
+# Project: Rock-Paper-Scissors Classification
 
 - Dataset: Rockpaperscissors
 - Dataset splitting:
